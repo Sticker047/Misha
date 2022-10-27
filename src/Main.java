@@ -11,5 +11,7 @@ public class Main {
 
         stroka.equals(stroka);
 
+        //Что-то новое
+
     }
 }
